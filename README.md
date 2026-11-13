@@ -10,21 +10,21 @@
 
 ## 目录
 
-* [快速上手](docs/commands.md#快速上手)
-* [命令参考](docs/commands.md)
-* [档案](docs/profiles.md)
-* [与 MobaXterm 配合](docs/mobaxterm.md)
-* [典型部署](docs/deploy.md)
-* [日志](docs/logging.md)
-* [常见问题](docs/faq.md)
-* [已知限制](docs/limits.md)
-* [安全说明](docs/security.md)
-* [项目结构与模块职责](docs/architecture.md)
-* [运行测试](docs/testing.md)
-* [故障排查](docs/troubleshooting.md)
-* [最终验证清单](docs/checklist.md)
-* [数据流附录](docs/dataflow.md)
-* [变更记录](CHANGELOG.md)
+* [快速上手](./docs/commands.md#快速上手)
+* [命令参考](./docs/commands.md)
+* [档案](./docs/profiles.md)
+* [与 MobaXterm 配合](./docs/mobaxterm.md)
+* [典型部署](./docs/deploy.md)
+* [日志](./docs/logging.md)
+* [常见问题](./docs/faq.md)
+* [已知限制](./docs/limits.md)
+* [安全说明](./docs/security.md)
+* [项目结构与模块职责](./docs/architecture.md)
+* [运行测试](./docs/testing.md)
+* [故障排查](./docs/troubleshooting.md)
+* [最终验证清单](./docs/checklist.md)
+* [数据流附录](./docs/dataflow.md)
+* [变更记录](./CHANGELOG.md)
 
 \---
 
