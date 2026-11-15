@@ -1,0 +1,25 @@
+tools/telnet_bridge/
+├── __init__.py
+├── __main__.py
+├── main.py
+├── config.py
+├── telnet_parser.py
+├── bridge.py
+├── mapping.py
+├── mapping_io.py
+├── trans_parser.py
+├── remove_parser.py
+├── repl.py
+├── conf/
+│   └── bridge_config.json
+├── mappings/
+│   └── example.json
+├── README.md
+└── tests/
+    ├── __init__.py
+    ├── test_config.py
+    ├── test_mapping_io.py
+    ├── test_telnet_parser.py
+    ├── test_trans_parser.py
+    ├── test_remove_parser.py
+    └── test_repl_dispatch.py
